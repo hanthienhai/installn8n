@@ -16,6 +16,6 @@ Script tự động cài đặt n8n với Docker và Caddy reverse proxy có SSL
 
 ## Cách Sử Dụng
 ```bash
-wget https://raw.githubusercontent.com/hanthienhai/installn8n/main/install_n8n.sh
+wget https://raw.githubusercontent.com/hanthienhai/installn8n/main/install-n8n.sh
 chmod +x install_n8n.sh
 sudo ./install_n8n.sh

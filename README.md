@@ -2,7 +2,7 @@
 
 Script tự động cài đặt n8n với Docker và Caddy reverse proxy có SSL.
 
-## Nguồn & Cải Tiến
+## Nguồn & Cải tiến
 
 Script được tối ưu từ [bài viết của MeCode](https://mecode.pro/cai-n8n-trong-2-phut-chi-1-cau-lenh/) với sự hỗ trợ của Claude.
 

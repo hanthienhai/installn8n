@@ -1,4 +1,4 @@
-# Script Cài Đặt n8n Docker
+# Script cài đặt n8n trên Ubuntu với Docker và Caddy
 
 Script tự động cài đặt n8n với Docker và Caddy reverse proxy có SSL.
 

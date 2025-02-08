@@ -63,5 +63,7 @@ Script được tối ưu từ [script của MeCode](https://mecode.pro/cai-n8n-
 ## Cách sử dụng
 ```bash
 wget https://raw.githubusercontent.com/hanthienhai/installn8n/main/install-n8n.sh
+```bash
 chmod +x install-n8n.sh
+```bash
 sudo ./install-n8n.sh

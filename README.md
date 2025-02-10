@@ -64,10 +64,14 @@ Script được tối ưu từ [script của MeCode](https://mecode.pro/cai-n8n-
 - Tải script cài đặt từ Github về VPS
 ```bash
 wget https://raw.githubusercontent.com/hanthienhai/installn8n/main/install-n8n.sh
-'''
+```
+
 - Cấp quyền thực thi cho script
 ```bash
 chmod +x install-n8n.sh
+```
+
 - Chạy script cài đặt
 ```bash
 sudo ./install-n8n.sh
+```
